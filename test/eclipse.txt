@@ -1,1 +1,5 @@
 eclipseで操作できるか検証
+結局、eclipseではfetch&megerできず。
+コマンドからやった。
+
+ここまでを、eclipseでメモして、push&pull requestできるか。

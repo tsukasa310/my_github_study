@@ -1,0 +1,2 @@
+branchを作ってpushする場合は、必ずremote先を指定する事
+git push origin dev_20140309
